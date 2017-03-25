@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slider</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+
+    <string name="tittle_screen1">Screen 1</string>
+    <string name="screen1_desc">Slider Practice Screen 1</string>
+    <string name="tittle_screen2">Screen 2</string>
+    <string name="screen2_desc">Slider Practice Screen 2</string>
+    <string name="tittle_screen3">Screen 3</string>
+    <string name="screen3_desc">Slider Practice Screen 3</string>
+
+    <string name="App_Prefference">App_Prefference</string>
+</resources>
